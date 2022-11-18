@@ -1,14 +1,5 @@
 
 /* Your CSS Code here. */
-.cc{
-  border:1px solid black;
-  height :500px; 
-  width:500px;
-
-background-colour: green;
-}
-
-.hh{
-  colour :black;
-
-}
+.favorite-color{
+  color:green;
+  }
